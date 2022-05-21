@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 
 - 🔭 I’m currently working on ...*NGS Data for NGS_Bio_Africa training as a TA*
