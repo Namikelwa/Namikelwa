@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-- 🔭 I’m currently working on ... *Mosquito IR Project*
+- 🔭 I’m currently working on ... Vector Atlas *Mosquito IR Project*
 - 🌱 I’m currently learning ... *To generate bioinformatics workflows in nextflow*
 - 👯 I’m looking to collaborate on ... *AMR projects*
 - 💬 Ask me about ... *Bioinformatics*
